@@ -34,6 +34,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Installation
 You just need to have google chrome
 ## Usage 💡
+https://user-images.githubusercontent.com/111899130/220769967-34f85fb6-aa92-4b3b-b5d9-cc120611826b.mp4
 
 
 ## License ![License Badge](https://img.shields.io/badge/license-Unlicense-blue.svg)
